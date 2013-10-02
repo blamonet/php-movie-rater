@@ -1,0 +1,1 @@
+This is a little movie rating script that uses a few data sources and caches them into a MySQL database. 
